@@ -1,2 +1,4 @@
-config.json
+next_move.txt
 node_modules
+config.json
+.env
